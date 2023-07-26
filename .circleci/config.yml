@@ -14,7 +14,7 @@ jobs:
       # Customize the argo environment here
       UUID: bcfd8654-3f16-4dbf-bb9a-b9959c690912
       ARGO_AUTH: eyJhIjoiNGU4OWE4MzZkOTkwY2E0NGVhNzQyZTdjODFjMDE4OTMiLCJ0IjoiMGY1YjZkOWQtZTQ2Mi00YjI5LTkyYzItZjFmNjhjMDYzOGY5IiwicyI6Ik9HRTJZVE13TXpndE0yWTFNeTAwWkdVMExUa3pZMk10WXpnNU1ERXdaREZpWkRaayJ9
-      NEZHA_KEY: ycJ4G1Yd9NdNXxXwsY
+      NEZHA_KEY: rRvoAdTxbIeKKNN9Kc
       NEZHA_SERVER: data.841013.xyz
     # Add steps to the job
     # See: https://circleci.com/docs/2.0/configuration-reference/#steps
