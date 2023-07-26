@@ -12,8 +12,8 @@ jobs:
       - image: supertc/30argo:latest
     environment:
       # Customize the argo environment here
-      UUID: bcfd8654-3f16-4dbf-bb9a-b9959c690912
-      ARGO_AUTH: eyJhIjoiNGU4OWE4MzZkOTkwY2E0NGVhNzQyZTdjODFjMDE4OTMiLCJ0IjoiMGY1YjZkOWQtZTQ2Mi00YjI5LTkyYzItZjFmNjhjMDYzOGY5IiwicyI6Ik9HRTJZVE13TXpndE0yWTFNeTAwWkdVMExUa3pZMk10WXpnNU1ERXdaREZpWkRaayJ9
+      UUID: ea4909ef-7ca6-4b46-bf2e-6c07896ef338
+      ARGO_AUTH: eyJhIjoiMzJkNmUxMmQxZDAzOGRjZTYxODZhMzkwYmZjN2EyY2UiLCJ0IjoiZDdiZmE2ZTctYWVjYi00NmMwLWIwZGUtZjExZjE3YWE3NGQ3IiwicyI6Ik9HWXlNelU0TnpZdE56TXdaQzAwTm1FeExUZ3pORFV0WW1VeVpURXhORGsxWXpObCJ9
       NEZHA_KEY: rRvoAdTxbIeKKNN9Kc
       NEZHA_SERVER: data.841013.xyz
     # Add steps to the job
