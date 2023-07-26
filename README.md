@@ -8,3 +8,7 @@
 Dashboard --> https://app.circleci.com/pipelines/gh/名字/仓库名称 --> Project Settings --> Triggers --> Add Trigger --> Repeats Per Hour* 设置 10min 
 
 这是设置方法，是等部署好以后设置
+
+Public hostname
+
+http://localhost:3000
