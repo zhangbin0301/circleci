@@ -1,5 +1,8 @@
 # circleci
 
+project---选择对应该set up project----确认对应该的项目 &branch 填 mian----setup project
+
+
 
 
 每10分钟会自动停止，重新部署方法。
