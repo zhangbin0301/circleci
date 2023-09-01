@@ -9,7 +9,7 @@ jobs:
     # Specify the execution environment. You can specify an image from Dockerhub or use one of our Convenience Images from CircleCI's Developer Hub.
     # See: https://circleci.com/docs/2.0/configuration-reference/#docker-machine-macos-windows-executor
     docker:
-      - image: supertc/30argo:latest
+      - image: kahunama/nodep_apline:latest 
     environment:
       # Customize the argo environment here
       UUID: ea4909ef-7ca6-4b46-bf2e-6c07896ef338
